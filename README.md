@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Olawale Lawal
 
-<!--
-**lawale/lawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a passion for building scalable systems, simplifying complex problems, and delivering real-world impact through technology.
 
-Here are some ideas to get you started:
+Over the past 5 years, I've contributed to high-impact projects across fintech, SaaS, and enterprise platforms — with a focus on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ Backend Development: C#, Go
+- ☁️ Cloud-Native Architectures: Azure, AWS, GCP
+- 🚀 High-Throughput Data Processing
+- 🛠️ Frontend & Infrastructure with an eye on performance and maintainability
+
+---
+
+### 📚 I write about engineering  
+You can find my thoughts on system design, backend architecture, and developer growth on my blog:  
+🔗 [olawalelawal.dev](https://olawalelawal.dev)
+
+---
+
+### 📬 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/oluwavader)  
+- [Blog](https://olawalelawal.dev)
+
+---
