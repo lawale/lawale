@@ -1,25 +1,61 @@
-# 👋 Hi, I'm Olawale Lawal
+# Hi, I'm Olawale Lawal
 
-I'm a software engineer with a passion for building scalable systems, simplifying complex problems, and delivering real-world impact through technology.
+Senior Software Engineer building resilient financial infrastructure. Currently at **Deel Local Payroll**, where I build integrations between payroll systems and tax authorities across multiple jurisdictions.
 
-Over the past 5 years, I've contributed to high-impact projects across fintech, SaaS, and enterprise platforms — with a focus on:
-
-- ⚙️ Backend Development: C#, Go
-- ☁️ Cloud-Native Architectures: Azure, AWS, GCP
-- 🚀 High-Throughput Data Processing
-- 🛠️ Frontend & Infrastructure with an eye on performance and maintainability
+I specialise in payments engineering, distributed systems, and turning hard-won production experience into open-source tools and technical writing.
 
 ---
 
-### 📚 I write about engineering  
-You can find my thoughts on system design, backend architecture, and developer growth on my blog:  
-🔗 [olawalelawal.dev](https://olawalelawal.dev)
+### Payments Engineering Toolkit
+
+I authored a [4-part series on payments engineering]([https://olawalelawal.dev](https://olawalelawal.dev/tag/payment/)) and open-sourced companion implementations for each article:
+
+| Project | What it does |
+|---------|-------------|
+| [**settlement-reconciler**](https://github.com/lawale/settlement-reconciler) | Three-way reconciliation engine matching internal records against gateway and settlement files |
+| [**payment-state-machine**](https://github.com/lawale/payment-state-machine) | Event-sourced state machine modelling the complete payment lifecycle |
+| [**payment-provider-health-check**](https://github.com/lawale/payment-provider-health-check) | Health monitoring and intelligent routing for payment provider integrations |
+| [**idempotency-guard**](https://github.com/lawale/idempotency-guard) | Distributed idempotency middleware for payment APIs (claim-then-process pattern) |
 
 ---
 
-### 📬 Connect with me
+### Other Open-Source Projects
 
-- [LinkedIn](https://www.linkedin.com/in/oluwavader)  
+| Project | What it does |
+|---------|-------------|
+| [**BranchGuard**](https://github.com/lawale/branch-guard) | GitHub App for programmable branch protection rules via YAML configuration |
+| [**SwaggerDiff.AspNetCore**](https://github.com/lawale/SwaggerDiff.AspNetCore) | In-app OpenAPI diff viewer and snapshot CLI for ASP.NET Core APIs |
+| [**observability-stack**](https://github.com/lawale/observability-stack) | Production-ready Grafana + OpenTelemetry observability platform |
+
+---
+
+### Writing
+
+I write about payments engineering, distributed systems, and infrastructure on my blog. Recent articles:
+
+- **The Map is Not the Territory** — Why payment system documentation and production reality diverge
+- **From Debugging to Design** — Mental models for understanding any payment flow
+- **Building for the 1%** — Engineering exception handling as first-class work
+- **The FinTech Staff Engineer** — Translating business risk into technical architecture
+- **BranchGuard** — Stateless GitHub automation for smarter branch rules
+- **Auto-Logging** — Automating away "please turn on debug logs"
+
+Read more at [olawalelawal.dev](https://olawalelawal.dev)
+
+---
+
+### Background
+
+- **Deel Local Payroll** — Senior Software Engineer. Payroll-tax authority integrations across multiple jurisdictions including HMRC.
+- **Consonant Technologies (Grip)** — Founding Engineer. Built a unified financial transaction layer routing payments across different financial providers.
+- **Innovantics (3B Platform)** — Re-architected an award-winning biometric banking platform deployed across all UBA branches, processing 3B+ transactions.
+- **Kuda Technologies** — Designed gamified rewards and referral systems at Africa's fastest-growing digital bank.
+- **Featured in Business Insider Africa** (Leaders section) and **TechCabal**.
+
+---
+
+### Connect
+
 - [Blog](https://olawalelawal.dev)
-
----
+- [LinkedIn](https://www.linkedin.com/in/oluwavader)
+- [Twitter](https://twitter.com/OluwaVader)
