@@ -26,6 +26,7 @@ I authored a [4-part series on payments engineering]([https://olawalelawal.dev](
 | [**BranchGuard**](https://github.com/lawale/branch-guard) | GitHub App for programmable branch protection rules via YAML configuration |
 | [**SwaggerDiff.AspNetCore**](https://github.com/lawale/SwaggerDiff.AspNetCore) | In-app OpenAPI diff viewer and snapshot CLI for ASP.NET Core APIs |
 | [**observability-stack**](https://github.com/lawale/observability-stack) | Production-ready Grafana + OpenTelemetry observability platform |
+| [**quorum**](https://github.com/lawale/quorum) | Lightweight Approval (maker-checker/four eyes principle) Engine |
 
 ---
 
